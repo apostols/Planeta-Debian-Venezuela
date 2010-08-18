@@ -55,4 +55,16 @@ feeds:
     url:    http://feeds.feedburner.com/LaLibertadDeDesarrollarNoTienePrecio
     email:  ecrespo@gmail.com
     avatar: planeta.png
+  titacgs:
+    url:    http://titacgs.com.ve/blog/feed/
+    email:  vanecgs@gmail.com
+    avatar: planeta.png
+  muammar:
+    url:    http://muammar.me/blog/index.php?/feeds/categories/13-Debian.rss
+    email:  muammarelkatib@gmail.com
+    avatar: planeta.png
+  gerard0:
+    url:    http://gerardo.com.ve/blog/cat/planet/linux/feed
+    email:  gcurier@gmail.com
+    avatar: planeta.png
 
