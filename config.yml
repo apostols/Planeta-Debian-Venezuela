@@ -56,7 +56,7 @@ feeds:
     email:  ecrespo@gmail.com
     avatar: planeta.png
   titacgs:
-    url:    http://titacgs.com.ve/blog/feed/
+    url:    http://blog.titacgs.com.ve/?feed=rss2
     email:  vanecgs@gmail.com
     avatar: planeta.png
   muammar:
@@ -68,7 +68,7 @@ feeds:
     email:  garridomota@gmail.com
     avatar: mogaal.png
   gerard0:
-    url:    http://gerardo.com.ve/blog/cat/planet/linux/feed
+    url:    http://gerardo.cc/rss.xml
     email:  gcurier@gmail.com
     avatar: planeta.png
 
