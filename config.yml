@@ -63,6 +63,10 @@ feeds:
     url:    http://muammar.me/blog/index.php?/feeds/categories/13-Debian.rss
     email:  muammarelkatib@gmail.com
     avatar: planeta.png
+  mogaal:
+    url:    http://blog.mogaal.com/?feed=rss2
+    email:  garridomota@gmail.com
+    avatar: mogaal.png
   gerard0:
     url:    http://gerardo.com.ve/blog/cat/planet/linux/feed
     email:  gcurier@gmail.com
