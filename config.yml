@@ -1,0 +1,58 @@
+# Configuración del planeta.
+
+opciones:
+  # Debug activado o no:
+  debug:	false
+  info:		true
+  
+  # Máximo de posts por autor:
+  maxposts:     1
+  
+  # Directorio de salida:
+  outdir:	htdocs
+  
+  # Fichero del planeta:
+  outfile:	index.html
+  
+  # Cada cuanto se refresca el planeta, mediante cron o lo que sea:
+  refresco:	15m
+  
+meta:
+  titulo:	Planeta Debian Venezuela
+  owner:	Webmaster Debian Venezuela
+  email:	webmaster@debian.org.ve
+  descripcion:  Sitio que agrupa a los desarrolladores/mantenedores de Debian en Venezuela
+  keywords:     software, libre, cultura, geek, linux, gnu, debian
+  link:         http://planeta.debian.org.ve
+
+  # Una imagen para icono general del feed rss.
+  icono:	/gfx/hl_icono.png
+  lenguaje:     es-es
+
+# Lista de feeds y avatares:
+feeds:
+  juan.angulo:
+    url:    http://apostols.net/?feed=rss2
+    email:  apostols@gmail.com
+    avatar: apostols.png
+  jose.luis.rivas:
+    url:    http://ghostbar.ath.cx/feed/
+    email:  ghoshbar37@gmail.com
+    avatar: ghostbar.png
+  christian.sanchez:
+    url:    http://blog.g013m.com.ve/index.php?/feeds/index.rss2
+    email:  csanchez@unplug.org.ve
+    avatar: planeta.png
+  alberto.capella:
+    url:    http://alberkman.unplug.org.ve/?feed=rss2
+    email:  alberkman@gmail.com
+    avatar: alberkman.png
+  bureado:
+    url:    http://blog.bureado.com.ve/?feed=rss2
+    email:  bureado@debian.org
+    avatar: planeta.png
+  ecrespo:
+    url:    http://feeds.feedburner.com/LaLibertadDeDesarrollarNoTienePrecio
+    email:  null@null.com
+    avatar: planeta.png
+
