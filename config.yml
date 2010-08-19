@@ -6,7 +6,7 @@ opciones:
   info:		true
   
   # Máximo de posts por autor:
-  maxposts:     1
+  maxposts:     3
   
   # Directorio de salida:
   outdir:	htdocs
