@@ -36,8 +36,8 @@ feeds:
     email:  apostols@gmail.com
     avatar: apostols.png
   jose.luis.rivas:
-    url:    http://ghostbar.ath.cx/feed/
-    email:  ghoshbar37@gmail.com
+    url:    http://ghostbar.ath.cx/tag/planeta-debian/feed/
+    email:  ghostbar@debian.org.ve
     avatar: ghostbar.png
   christian.sanchez:
     url:    http://blog.g013m.com.ve/index.php?/feeds/index.rss2
