@@ -26,7 +26,7 @@ meta:
   link:         http://planeta.debian.org.ve
 
   # Una imagen para icono general del feed rss.
-  icono:	/gfx/hl_icono.png
+  icono:	/glx/planeta.png
   lenguaje:     es-es
 
 # Lista de feeds y avatares:
@@ -35,43 +35,54 @@ feeds:
     url:    http://apostols.net/?feed=rss2
     email:  apostols@gmail.com
     avatar: apostols.png
+    name:   Juan Angulo Moreno
   jose.luis.rivas:
     url:    http://ghostbar.ath.cx/tag/planeta-debian/feed/
     email:  ghostbar@debian.org.ve
     avatar: ghostbar.png
+    name:   José Luis Rivas
   christian.sanchez:
     url:    http://blog.g013m.com.ve/index.php?/feeds/index.rss2
     email:  csanchez@unplug.org.ve
     avatar: planeta.png
+    name:   Christian Sánchez
   alberto.capella:
     url:    http://alberkman.unplug.org.ve/?feed=rss2
     email:  alberkman@gmail.com
     avatar: alberkman.png
+    name:   Alberto Capella
   bureado:
     url:    http://blog.bureado.com.ve/?feed=rss2
     email:  bureado@debian.org
     avatar: planeta.png
+    name:   José Parrella
   ecrespo:
     url:    http://feeds.feedburner.com/LaLibertadDeDesarrollarNoTienePrecio
     email:  ecrespo@gmail.com
     avatar: planeta.png
+    name:   Ernesto Crespo
   titacgs:
     url:    http://blog.titacgs.com.ve/?feed=rss2
     email:  vanecgs@gmail.com
     avatar: planeta.png
+    name:   Vanessa Gutierrez
   muammar:
     url:    http://twitter.com/statuses/user_timeline/3756831.rss
-    email:  muammarelkatib@gmail.com
+    email:  muammarelkhatib@gmail.com
     avatar: muammar.jpg
+    name:   Muammar El Khatib
   mogaal:
     url:    http://blog.mogaal.com/?feed=rss2
     email:  garridomota@gmail.com
     avatar: mogaal.png
+    name:   Alejandro Garrido Mota
   gerard0:
     url:    http://gerardo.cc/rss.xml
     email:  gcurier@gmail.com
     avatar: planeta.png
+    name:   Gerardo Curiel
   e1th0r:
     url:    http://e1th0r.gulmer.org.ve/?feed=rss
     email:  e1th0r@gmail.com
     avatar: planeta.png
+    name:   Héctor Colina
