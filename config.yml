@@ -75,7 +75,3 @@ feeds:
     url:    http://e1th0r.gulmer.org.ve/?feed=rss
     email:  e1th0r@gmail.com
     avatar: planeta.png
-  debian.ve.log:
-    url:    http://debian-ve.tumblr.com/rss
-    email:  apostols@gmail.com
-    avatar: planeta.png
