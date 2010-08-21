@@ -82,7 +82,7 @@ feeds:
     avatar: planeta.png
     name:   Gerardo Curiel
   e1th0r:
-    url:    http://e1th0r.gulmer.org.ve/?feed=rss
+    url:    http://e1th0r.gulmer.org.ve/?feed=atom
     email:  e1th0r@gmail.com
     avatar: planeta.png
     name:   Héctor Colina
