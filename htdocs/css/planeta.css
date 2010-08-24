@@ -215,6 +215,7 @@ img.alignright {
         font-size: 10pt;
         font-family: "Lucida Grande", Arial, sans-serif;
 	font-color: #000000;
+	text-align: right;
 }
 
 .autor {
@@ -245,5 +246,11 @@ img.alignright {
 .toogle {
         font-size: 0.8em;
         font-family: "Lucida Grande", Arial, sans-serif;
+}
+
+.fecha_prin {
+        font-size: 1.5em;
+        font-family: "Lucida Grande", Arial, sans-serif;
+	text-align: left;
 }
 
