@@ -1,6 +1,5 @@
 <!--(${post:id}) ${post:autor}: ${post:titulo} -->
 <div id="${post:id}" class="post">
-	<div class="fecha">${post:fecha} / ${post:hora}</div>
 	<h2><a href="${post:permalink}"><img src="${post:autor_avatar}" alt="${post:autor}" align="right"> ${post:titulo}</a></h2>
 	<div class="meta">
 		<div class="autor">Por&nbsp;<a href="${post:autor_link}">${post:name_feed}</a> en&nbsp;&nbsp;<a href="${post:blog_url}" title="${post:blog_desc}">${post:blog_title}</a></div>
@@ -8,4 +7,5 @@
 	<div class="descripcion">${post:descripcion}</div>
 	<div class="toggle">${post:toggle}</div>
 	<div class="contenido">${post:contenido}</div>
+	<div class="fecha">${post:fecha_completa} / ${post:hora}</div>
 </div>
