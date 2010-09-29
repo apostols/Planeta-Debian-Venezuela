@@ -47,7 +47,7 @@ feeds:
     avatar: planeta.png
     name:   Christian Sánchez
   alberto.capella:
-    url:    http://alberkman.unplug.org.ve/?feed=rss2
+    url:    http://alberkman.unplug.org.ve/feed/
     email:  alberkman@gmail.com
     avatar: alberkman.png
     name:   Alberto Capella
