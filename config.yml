@@ -81,6 +81,11 @@ feeds:
     email:  gcurier@gmail.com
     avatar: planeta.png
     name:   Gerardo Curiel
+  Miguel:
+    url:    http://miguel.cc/blog/index.rss
+    email:  miguel@miguel.cc
+    avatar: planeta.png
+    name:   Miguel Landaeta
   e1th0r:
     url:    http://e1th0r.gulmer.org.ve/?feed=atom
     email:  e1th0r@gmail.com
