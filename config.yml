@@ -67,7 +67,7 @@ feeds:
     avatar: planeta.png
     name:   Vanessa Gutierrez
   muammar:
-    url:    http://twitter.com/statuses/user_timeline/3756831.rss
+    url:    http://muammar.me/blog/category/debian/feed/rss/
     email:  muammarelkhatib@gmail.com
     avatar: muammar.jpg
     name:   Muammar El Khatib
