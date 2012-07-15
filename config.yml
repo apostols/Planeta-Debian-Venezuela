@@ -86,6 +86,11 @@ feeds:
     email:  miguel@miguel.cc
     avatar: planeta.png
     name:   Miguel Landaeta
+  Silverdog:
+    url:    http://blog.silverdog.com.ve/category/linux/feed
+    email:  silverdog@gmail.com
+    avatar: planeta.png
+    name:   Carlos Silombria
   e1th0r:
     url:    http://e1th0r.gulmer.org.ve/?feed=atom
     email:  e1th0r@gmail.com
