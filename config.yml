@@ -52,7 +52,7 @@ feeds:
     avatar: alberkman.png
     name:   Alberto Capella
   bureado:
-    url:    http://blog.bureado.com.ve/?feed=rss2
+    url:    http://bureado.com/rss.xml
     email:  bureado@debian.org
     avatar: planeta.png
     name:   José Parrella
