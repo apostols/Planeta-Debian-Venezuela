@@ -32,7 +32,7 @@ meta:
 # Lista de feeds y avatares:
 feeds:
   juan.angulo:
-    url:    http://apostols.net/?feed=rss2
+    url:    http://apostols.net/?feed=rss2&cat=15
     email:  apostols@gmail.com
     avatar: apostols.png
     name:   Juan Angulo Moreno
