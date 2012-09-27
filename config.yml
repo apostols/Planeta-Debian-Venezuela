@@ -71,6 +71,11 @@ feeds:
     email:  muammarelkhatib@gmail.com
     avatar: muammar.jpg
     name:   Muammar El Khatib
+  jperez:
+    url:    http://blog.buhoz.com.ve/feed/
+    email:  templeofdvst@gmail.com
+    avatar: planeta.png
+    name:   Javier Perez
 #  mogaal:
 #    url:    http://blog.mogaal.com/?feed=rss2
 #    email:  garridomota@gmail.com
