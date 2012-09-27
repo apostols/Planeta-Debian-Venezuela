@@ -91,6 +91,9 @@ feeds:
     email:  silverdog@gmail.com
     avatar: planeta.png
     name:   Carlos Silombria
+  JavierPerez:
+    url:    http://feeds.feedburner.com/buhoz?format=xml
+    email:  templeofdvst@gmail.com
 #  e1th0r:
 #    url:    http://e1th0r.gulmer.org.ve/?feed=atom
 #    email:  e1th0r@gmail.com
