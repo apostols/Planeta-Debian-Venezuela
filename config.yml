@@ -41,6 +41,11 @@ feeds:
     email:  csanchez@unplug.org.ve
     avatar: planeta.png
     name:   Christian Sánchez
+  macagua:
+    url:    http://lcaballero.wordpress.com/tag/debian/feed/
+    email:  leonardocaballero@gmail.com
+    avatar: planeta.png
+    name:   Leonardo Caballero
   alberto.capella:
     url:    http://alberkman.unplug.org.ve/feed/
     email:  alberkman@gmail.com
@@ -91,13 +96,3 @@ feeds:
     email:  silverdog@gmail.com
     avatar: planeta.png
     name:   Carlos Silombria
-  macagua:
-    url:    http://lcaballero.wordpress.com/tag/debian/feed/
-    email:  leonardocaballero@gmail.com
-    avatar: planeta.png
-    name:   Leonardo Caballero
-#  e1th0r:
-#    url:    http://e1th0r.gulmer.org.ve/?feed=atom
-#    email:  e1th0r@gmail.com
-#    avatar: planeta.png
-#    name:   Héctor Colina  
