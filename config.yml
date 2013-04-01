@@ -36,11 +36,11 @@ feeds:
     email:  apostols@gmail.com
     avatar: apostols.png
     name:   Juan Angulo Moreno
-  jose.luis.rivas:
-    url:    http://ghostbar.ath.cx/tag/planeta-debian/feed/
-    email:  ghostbar@debian.org.ve
-    avatar: ghostbar.png
-    name:   José Luis Rivas
+#  jose.luis.rivas:
+#    url:    http://ghostbar.ath.cx/tag/planeta-debian/feed/
+#    email:  ghostbar@debian.org.ve
+#    avatar: ghostbar.png
+#    name:   José Luis Rivas
   christian.sanchez:
     url:    http://blog.g013m.com.ve/index.php?/feeds/index.rss2
     email:  csanchez@unplug.org.ve
