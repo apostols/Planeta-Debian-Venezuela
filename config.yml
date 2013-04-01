@@ -96,6 +96,11 @@ feeds:
     email:  silverdog@gmail.com
     avatar: planeta.png
     name:   Carlos Silombria
+  macagua:
+    url:    http://lcaballero.wordpress.com/tag/debian/feed/
+    email:  leonardocaballero@gmail.com
+    avatar: planeta.png
+    name:   Leonardo Caballero
 #  e1th0r:
 #    url:    http://e1th0r.gulmer.org.ve/?feed=atom
 #    email:  e1th0r@gmail.com
