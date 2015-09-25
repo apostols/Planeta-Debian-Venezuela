@@ -4,19 +4,19 @@ opciones:
   # Debug activado o no:
   debug:	false
   info:		true
-  
+
   # Máximo de posts por autor:
   maxposts:     3
-  
+
   # Directorio de salida:
   outdir:	htdocs
-  
+
   # Fichero del planeta:
   outfile:	index.html
-  
+
   # Cada cuanto se refresca el planeta, mediante cron o lo que sea:
   refresco:	15m
-  
+
 meta:
   titulo:	Planeta Debian Venezuela
   owner:	Webmaster Debian Venezuela
@@ -67,7 +67,7 @@ feeds:
     avatar: planeta.png
     name:   Vanessa Gutierrez
   muammar:
-    url:    http://muammar.me/blog/category/debian/feed/rss/
+    url:    http://muammar.me/blog/category/debian/feed.xml
     email:  muammarelkhatib@gmail.com
     avatar: muammar.jpg
     name:   Muammar El Khatib
